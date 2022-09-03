@@ -1,0 +1,59 @@
+@media (max-width: 1535px) {
+    .navbar{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #first-section{
+        padding-left: 0;
+    }
+}
+
+@media (max-width: 992px) {
+    .second-col{
+        visibility: hidden;
+    }
+    .second-row{
+       position: unset;
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1536px) {
+    .first-row{
+        width: 1386px;
+    }
+    .second-row{
+        width: 681px;
+    }
+    .navbar1{
+        width: 1536px;
+    }
+    .third-row{
+        width: 1369px;
+    }
+    .fourth-row{
+        width: 1369px;
+    }
+    .fifth-row{
+        width: 1195.200px;
+    }
+}

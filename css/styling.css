@@ -1,0 +1,138 @@
+body{
+    overflow-x: hidden;
+}
+/* Navbar Settings Starts Here */
+.navbar{
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 2px 4px 0 #738f93;
+
+}
+
+.logo{
+    width: 167.988px;
+}
+.nav-item{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.nav-link{
+    color: black;
+}
+.navbar-nav{
+    align-items: center;
+}
+.sign-up{
+    border-radius: 0;
+    padding-left: 21.679px;
+    padding-right: 21.679px;
+}
+
+/* First Section starts Here */
+#first-section{
+    padding-left: 150px;
+
+}
+.first-col{
+    padding-left: 0;
+    padding-top: 100px;
+}
+.third-col{
+    padding-left: 0;
+    padding-right: 0;
+}
+.fourth-col{
+    padding-left: 0;
+    padding-right: 0;
+}
+.humans-pic{
+    width: 680px;
+    height: 500px
+}
+.third-container{
+    padding-left: 0;
+}
+.card-body1{
+    padding-left: 12px;
+}
+.first-card{
+    width: 313.625px;
+    border: 0;
+}
+
+.hiring-button{
+    background-color: #1ba94c;
+    color: white;
+    border-radius: 1px;
+    padding-left: 27.512px;
+    padding-right: 27.512px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.sign-up-button{
+    background-color: white;
+    color: #1ba94c;
+    border-radius: 1px;
+    padding-left: 27.512px;
+    padding-right: 27.512px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: #1ba94c;
+    margin-top: 10px;
+
+}
+
+/* index1.html */
+.free-trial-button{
+    background-color: #1ba94c;
+    color: white;
+    border-radius: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+/* Third Section */
+#third-section{
+    padding-left: 150px;
+    padding-left: 150px;
+}
+.fifth-col{
+    width: 500px
+}
+
+.buiseness-pic{
+    position: relative;
+    top: 15px;
+    right: 3px
+}
+
+/* Fourth Section */
+#fourth-section{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.logo2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* index 3  */
+.logo3{
+    width: 274.832px;
+    text-align: center;
+}
+
+.login-card{
+    width: 480px
+}
